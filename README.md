@@ -1,11 +1,11 @@
-Coursera的課程內容
+機器學習相關的Coursera
 * [DeepLearning.AI](https://www.coursera.org/deeplearning-ai)
   * [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
     * [Supervised Machine Learning](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
     * [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
     * [Unsupervised Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
   * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
-    * [neural-networks-deep-learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
+    * [Neural Networks Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
     * [Improving Deep Neural Networks](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
     * [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
     * [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
